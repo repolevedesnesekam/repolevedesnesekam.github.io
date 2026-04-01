@@ -396,7 +396,7 @@
         "name": "Bloomberg",
         "logo": "/img/bloomberg.png",
         "category": "News",
-        "url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd",
         "drm": {
             "3b8e6d1f2c9a4f7d9a556c1e7b2d8f90": "09f0bd803966c4befbd239cfa75efe23"
         }
