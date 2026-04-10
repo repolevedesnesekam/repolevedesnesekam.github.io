@@ -12,7 +12,29 @@
         "name": "GMA 7",
         "logo": "/img/gma-7.png",
         "category": "Entertainment",
-        "url": "https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8"
+        "url": "https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd",
+        "drm": {
+        "97605191f28d358398dfe75690d4276b": "5d0eb239d40b3af36697212f13911f9d",
+        "773cc54d07473bdf9e47213bf6c91087": "c5c1789e8fbf58ed563a0a5b82bbff6d",
+        "30c5850244d23fa6b0c59cb2de1bdf7d": "63336bcaea917a5982ddc501b8545cb2",
+        "61b1fad4b08b352c8537bdc69a0d8ec0": "113b397bbf8c6c84eb6261b94e7eae25",
+        "e9b0aac530f93a359f19effef6f31c77": "285aebfd41c2b5c90195eb8e0584b5f1",
+        "cca4eb8957bb369b80fc37f604ab7ad7": "286e2d882fdfe7cd7bdee30255862b6a",
+        "5aac9c2db8b131c7b4d8e7b19861ac02": "85fb5fdd442589aa2e16b39be9d0d45c",
+        "60fc9b0039693389ad86d2dbcb47daa0": "2feb9b8989c42521c90d5e07aa90aed5",
+        "db7a1f9648513af1b2951a5f9b022212": "e9cc1de204dec6eea53d330d021590d6",
+        "81b349abf65833488076f1947bcba7b9": "b3f465b6ea30b6ff7b5d9bb64ee231ff",
+        "78d3881635a93100b518876c1e2a2757": "8d25eac930db64c73bcc4ce8217bd003",
+        "944d177abb5b3f288f9098b2eba704db": "d91b731dff92a1ea1df0c24e708deac8",
+        "effd2a2e22af352286c99e7b6e063e57": "27b29fd54e1cccc5d424d19e182d393d",
+        "ae7b786b061c372ab6390097f6e50168": "c4c3746a926aae1c758c7ab71ea90caa",
+        "72f2f6b2714b30c28a6957e9002d8101": "6d08bc66ebd4eaa436df9a8112e0a120",
+        "7f985feec2af3eb687bd0fc9c8793f59": "8ff9f827ebf62be64bad5d68f771515f",
+        "df6fee5a8b9c3c1e994ec904551615e8": "57245fe8c814041b8e807fd360968ece",
+        "4414cd334ce23d55be607c7d5c7d5ec7": "9d045860c7adda4280bed8a48bc54172",
+        "972078d9edf933ec8f5139bbf32a1fcf": "0fac81ccfe623a38d37ca5c68ce44e22",
+        "5bfd0e84e3443689a5e009603ba56f40": "3f3d23ae1cef153cb870b7aa7622a7c7"
+      }
     },
     {
         "name": "TV5",
