@@ -14,26 +14,7 @@
         "category": "Entertainment",
         "url": "https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd",
         "drm": {
-            "97605191f28d358398dfe75690d4276b": "5d0eb239d40b3af36697212f13911f9d",
-            "773cc54d07473bdf9e47213bf6c91087": "c5c1789e8fbf58ed563a0a5b82bbff6d",
-            "30c5850244d23fa6b0c59cb2de1bdf7d": "63336bcaea917a5982ddc501b8545cb2",
-            "61b1fad4b08b352c8537bdc69a0d8ec0": "113b397bbf8c6c84eb6261b94e7eae25",
-            "e9b0aac530f93a359f19effef6f31c77": "285aebfd41c2b5c90195eb8e0584b5f1",
-            "cca4eb8957bb369b80fc37f604ab7ad7": "286e2d882fdfe7cd7bdee30255862b6a",
-            "5aac9c2db8b131c7b4d8e7b19861ac02": "85fb5fdd442589aa2e16b39be9d0d45c",
-            "60fc9b0039693389ad86d2dbcb47daa0": "2feb9b8989c42521c90d5e07aa90aed5",
-            "db7a1f9648513af1b2951a5f9b022212": "e9cc1de204dec6eea53d330d021590d6",
-            "81b349abf65833488076f1947bcba7b9": "b3f465b6ea30b6ff7b5d9bb64ee231ff",
-            "78d3881635a93100b518876c1e2a2757": "8d25eac930db64c73bcc4ce8217bd003",
-            "944d177abb5b3f288f9098b2eba704db": "d91b731dff92a1ea1df0c24e708deac8",
-            "effd2a2e22af352286c99e7b6e063e57": "27b29fd54e1cccc5d424d19e182d393d",
-            "ae7b786b061c372ab6390097f6e50168": "c4c3746a926aae1c758c7ab71ea90caa",
-            "72f2f6b2714b30c28a6957e9002d8101": "6d08bc66ebd4eaa436df9a8112e0a120",
-            "7f985feec2af3eb687bd0fc9c8793f59": "8ff9f827ebf62be64bad5d68f771515f",
-            "df6fee5a8b9c3c1e994ec904551615e8": "57245fe8c814041b8e807fd360968ece",
-            "4414cd334ce23d55be607c7d5c7d5ec7": "9d045860c7adda4280bed8a48bc54172",
-            "972078d9edf933ec8f5139bbf32a1fcf": "0fac81ccfe623a38d37ca5c68ce44e22",
-            "5bfd0e84e3443689a5e009603ba56f40": "3f3d23ae1cef153cb870b7aa7622a7c7"
+            "b9490e38bce336cb910ccbf6d84268a8": "cd501c3d158c0c5a0281949db9959d05"
       }
     },
     {
@@ -134,9 +115,9 @@
         "name": "GTV",
         "logo": "/img/gtv.webp",
         "category": "Entertainment",
-        "url": "https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4",
+        "url": "https://gsattv.akamaized.net/live/media0/gtv/Widevine/gtv.mpd",
         "drm": {
-            "31363232353335323435353337353331": "35416a68643065697575493337566135"
+            "d1ae6163f49d3147b67bd86210013ead": "fedb9e3c1c133cc05d6e5ea88f03db21"
         }
     },
     {
@@ -389,26 +370,7 @@
         "category": "Religious",
         "url": "https://gsattv.akamaized.net/live/media0/smni/Widevine/smni.mpd",
         "drm": {
-            "6f5cc86aefc13ba6a48c3b4b103c79eb": "56759e5b08e96997b03dc18eecbc714b",
-            "2d1e835a320234a1b1e80e5064ad078b": "d741de2dd7bb0615927fbce4278c2dfd",
-            "4da82bac5c483902b2b334b67572c098": "dccacaa58002b82aed0f2a37c44952e5",
-            "e9e18ad89d9e397e819e91b8ba81a1fa": "1a1b3b4a3db6f045350160f7748b63f4",
-            "e347068fe6af39c7b696d189550a245d": "0b0f663dc64dafcf0468ddffd0625459",
-            "3d45d446d3bb35418b6f745fa1225dd0": "9d7ad9ca861e78ac49c5a70844bccb08",
-            "a14551f08ded32ff8d2b9da37e43c7a7": "75c03bb59daf4a2ae1e9ef35793021ea",
-            "c1c6ef164e1e321e8fb197a6bafef7da": "1714ff38e2f532be14ace357da16dbee",
-            "9531232b751234dd8beada018b62180e": "b29799da4a10c062f69a1cc01d8b7bd4",
-            "43d7839be4dd3b929b7a21e11cb5e771": "081a3ed408cecbe657b08756d2b0afdc",
-            "6e93abc28cad39c5ae6f28fdbb0378b2": "30bf42fe36f014f606166e678662c28f",
-            "8820602c52c635068eb08f057a0ee6e6": "981ac21cbb804d9b2fae019c9ad4099f",
-            "b3490474e5bc3e53b8ec242314d92a8f": "53e16cb411e0d0061e353a6f8cd9413f",
-            "90137c6fafae330ca060f25d1ec69042": "e607597c2cb25c76357df1998f531030",
-            "e54e19db35b03fddbae652d52d811d94": "a319e6051692a84093f3d3113665fa87",
-            "8e1de2aad005378aae5bd46a6d55f038": "c71a35b83874ec9b4c795a575645682c",
-            "1e4fb7bc222933769b7609cde53cd050": "ed40cab67da04323f327927fa856e559",
-            "6d8a4729d024349280261fc9c72ec376": "e7586ee5a500aeb4835673fdd6b74b74",
-            "333af98f247b31a6bde223fe699c5c7d": "17314bd7ccb1eb5c9b22cc6c38cc66dd",
-            "4e60c1b652933aa1b70527565e5d4874": "584ea4d47c1a8966ef81510f27ddb7b9"
+            "69c2cc2ee14a32ca82ea7afc2c2c2d24": "b8b7d478428766be998c1ec457a63669"
         }
     },
     {
@@ -594,26 +556,7 @@
         "category": "Educational",
         "url": "https://gsattv.akamaized.net/live/media0/knowledge/Widevine/knowledge.mpd",
       "drm": {
-        "4e503e84bfbb36b1b4ed82d93818bfe9": "b68ac257cb141017de87f501e404c449",
-        "134b126fa45a3889aca4ea2ebe5b2c9e": "8b55c3e995927cef307a5553fe92794f",
-        "d12810d68ad43ee59b51cfdf1a4081e1": "b9d08949eea7d512c021f1cca0cf7458",
-        "b7dd4757016e3881930efa43f0709bae": "da489001505f7d44beefa01f505871d6",
-        "59104c81e0973b43b0184062d54a4472": "a93d258b74227cf2834110ee46e1b48c",
-        "c64ec96c5e173709a5f26a9a2feb747f": "4f279493c501b76b8de557583fbfd859",
-        "2ce8aaa55322343f861741e7625a1e96": "9bf482ba2624ccb4b49a1266e2c1134e",
-        "b987491e67143bf6bda4a4d8c726dd02": "407178abe2bfcaabeded10870d2ba41c",
-        "f5f5250ff77235dcad76665d7f0dab2e": "6c6f8288cb413f3024418773eaaee6a3",
-        "a836801d37783bff99dcb297038d626d": "d16512f82e4d184b355c5585a69c6792",
-        "1641d9aa72c532e9a567b62c5242c20b": "30b62104e5e366b5827d405a8a9f5c4c",
-        "1549d89d8d3a3220b4ec47923a88c852": "e40304233ff9b16e7733b7e668608ed8",
-        "5b9ff5f0fcef3054890ff6661d665bdf": "0284b45d8879c38132dfabd8e223c03d",
-        "83bb0bd2df1b3c92a30863375e6edeb2": "4f8d1166e12731e5a7c3d046c0c9b305",
-        "fe1a272213043a9a98f37b92bd1a89eb": "64bd08387e524df46164894317024e92",
-        "6b394c12f8b03c358fdeb1a782167465": "702074f7602b01111e2d3585f6943f72",
-        "934c579b805c333893e5c00de8215c82": "5d297452b8feb4bf8c0d26eb71481b25",
-        "c7edc87d20a9385f84aa9dc46a8f8c93": "f2a37ad6c73db54a11f3418873fa4096",
-        "2adce2d270433057aca6bdba5e33e4d3": "7e382863ae5a01f9cf321046beb96676",
-        "2c4d08effccc37bfa888ce790ac1018e": "f0beaad5679a04e847e57aa307d1680d"
+        "68b6c6bdb1fe346d8912bf4302bd85c0": "e303e1d8ec5a7ce7da8d981df70fb913",
       }
     },
     {
